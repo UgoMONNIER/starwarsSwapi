@@ -11,7 +11,7 @@
 .container .card
 {
     position:relative;
-    width: 200%;
+    width: 280%;
     height: 450px;
     background-color: #232323;
     border-radius: 20px;
@@ -68,10 +68,10 @@
 {
     position: absolute;
     top: 0%;
-    left: 65%;
+    left: 55%;
     transform: translateY(-50%,-50%) rotate(-25deg);
     z-index: -1 ;
-    width: 100px;
+    width: 180px;
 }
 
 .container .card .contentBx
